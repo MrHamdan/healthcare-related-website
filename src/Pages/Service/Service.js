@@ -16,7 +16,7 @@ const Service = ({ service }) => {
                     <p>Phone: {number}</p>
                 </div>
                 <div className="card-footer">
-                    <Link to={`/services/${id}`}><small><Button className="text-white fw-bold border-4" variant="success">Get Service  <i class="fas fa-arrow-right"></i></Button></small></Link>
+                    <Link to={`/services/${id}`}><small><Button className="text-white fw-bold border-4" variant="success">Get Service  <i className="fas fa-arrow-right"></i></Button></small></Link>
                 </div>
             </div>
         </div>
