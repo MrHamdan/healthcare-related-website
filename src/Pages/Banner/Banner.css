@@ -1,0 +1,19 @@
+.custom-bg{
+    background-image: url("../../images/banner.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+    text-align: center;
+}
+.carousel-design{
+    width: 80%;
+}
+
+.text-design{
+    font-size:40px;
+    color:rgb(237, 238, 238);
+    filter: drop-shadow(0px 2px 5px #575757);
+    font-weight: bold;
+}
+
+

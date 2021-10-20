@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "title": "Eye Care",
+        "name": "Dr. Darlin Mandosa",
+        "number": "912-023",
+        "description": "An eye care professional is an individual who provides a service related to the eyes or vision. It is any healthcare worker involved in eye care, from one with a small amount of post-secondary training to practitioners with a doctoral level of education.",
+        "img": "https://www.umc.edu/news/News_Articles/2020/02/Images/Ophthalmology-Patient-20200204-02.png"
+    },
+    {
+        "id": "2",
+        "title": "Physical Therapy",
+        "name": "Dr. Rodik Anderson",
+        "number": "922-423",
+        "description": "Physical therapy, also known as physiotherapy, is one of the allied health professions. It is provided by physical therapists who promote, maintain, or restore health through physical examination, diagnosis, prognosis, patient education, physical intervention, rehabilitation, disease prevention and health promotion.",
+        "img": "https://franklinrehab.com/wp-content/uploads/2017/10/BackPainSavings.png"
+    },
+    {
+        "id": "3",
+        "title": "Dental Care",
+        "name": "Dr. Julia Jame",
+        "number": "931-290",
+        "description": "Oral hygiene is the practice of keeping one's mouth clean and free of disease and other problems by regular brushing of the teeth and cleaning between the teeth. It is important that oral hygiene be carried out on a regular basis to enable prevention of dental disease and bad breath",
+        "img": "https://image.listpipe.com/dentist-bad-breath-treatment2.jpg"
+    },
+    {
+        "id": "4",
+        "title": "Diagnostic Test",
+        "name": "Dr. Mark Norick",
+        "number": "923-421",
+        "description": "A diagnostic test is a test used to identify a condition or its cause. It is used to diagnose. A diagnostic test performed as a part of a medical exam may be used to identify the cause of symptoms or identify a disease. ... Diagnostic tests may also be used to determine the cause of a behavior or characteristic.",
+        "img": "https://www.medicaldevice-network.com/wp-content/uploads/sites/11/2021/09/cobas-6800-system-operator-2.jpg"
+    },
+    {
+        "id": "5",
+        "title": "Skin Surgery",
+        "name": "Dr. Erik Madson",
+        "number": "925-424",
+        "description": "Plastic surgery is a surgical specialty involving the restoration, reconstruction, or alteration of the human body. It can be divided into two main categories: reconstructive surgery and cosmetic surgery. Reconstructive surgery includes craniofacial surgery, hand surgery, microsurgery, and the treatment of burns.",
+        "img": "https://www.sakraworldhospital.com/spl_splimgs/I-highly-recommend-Sakra-world-Hospital-for-Cosmetic-Surgery-1068.png"
+    },
+    {
+        "id": "6",
+        "title": "Surgery Treatment",
+        "name": "Dr. Mazy Mony",
+        "number": "964-343",
+        "description": "Surgical services include: use of operation room and recovery room, operative and cutting-procedures, treatment of fractures and dislocations, surgical dressings, and other Medically Necessary services.",
+        "img": "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/BLOG_170209921_AR_-1_VFAWGINZQBCJ.jpg"
+    }
+]
